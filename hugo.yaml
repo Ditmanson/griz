@@ -13,9 +13,9 @@ menu:
       url: "/meetups"
       weight: 20
 
-    - identifier: "Dog Psychology"
-      name: "dog psychology"
-      url: "/dog_psychology"
+    - identifier: "Lesson Plans"
+      name: "lesson plans"
+      url: "/lesson_plans"
       weight: 30
 
     - identifier: "Misc"

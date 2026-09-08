@@ -12,7 +12,51 @@ Classical conditioning, also known as associative learning theory, was discovere
 ## For Dogs
 For us in dog training, this means pairing a stimulus, such as food, with a marker, such as a clicker or verbal communication, can elicit the same response as food. 
 
+# Fundamental Concepts
+- Environmental factors can stimulate a response from the dogs.
+- A neutral stimulus that factors no response from a dog, can be conditioned to do so when paired closely with a naturally stimulating source. 
+- The transformation of the neutral stimulus into a conditioned stimulus highlights the significance of stimuli in shaping behavior responses. 
+- We can use variations of the conditioned stimulus to generalize the marker.
+- Discrimination involves the ability to distingqush between multiple stimuli and respond selectively.
+- Close assciation is piviotal for effective conditioning and emphasizes the importance of timing in influecing learning outcomes. 
+- Once a stimulus is conditioned, it can be used to create evoke similar responses when conditioning a new unconditioned stimulus.
+- The closer in space and time the unconditioned stimulus is presented after the conditioned stimulus the stronger the association will be between them. 
+- Higher Contingency creates a heightened exxpectancy and anticipation of the natural stimulus. 
 
+## Reinforcement
+- reinforcement refers to the process of stregthening a particular association between a conditioned stimuluus andaconditioned response
+- Reinforcement can occur through reinforcement or punishment:
+    - Reinforcement: Increases the likelihood of the behavior happening again
+        - Positive reinforcement - Providing a positive stimulant the dog wants 
+        - negative reinforcement - Taking away an aversive stimulant that makes the dog uncomfortable
+    - Punishment: Decreases the likelihood of the behavior happening again. Either decreases in intensity or happens less often than before.
+        - Positive Punishment - providing an aversive stimulant to the dog
+        - Negative Punishment - taking a positive stimulant away from the dog
+- Consistent reinforcement yields more robust associations
+
+## Primary vs Secondary Stimulus
+A primary stimulous is a stimuli have innate biological significance such as:
+    - Food
+    - Water
+    - Pain
+
+Where as secondary stimulus acquire their significance through association with a primary stimulus. 
+   - We can think of the dogs pray drive. Chasing or killing of prey are associated with the primary stimulus food. 
+   - Escape and avoidance of behaviors may be associated with pain.
+
+## Primary vs Secondary Stimulus
+A primary stimulous is a stimuli have innate biological significance such as:
+Food
+Water
+Pain
+
+## Behavior modification
+- Habitation - repeated expposure to a specific stimlous can lead to habituation and lead to a decreased rsponse
+    - If your afraid of other dogs, repeated exposure can lead to a decrease in fear of other dogs
+        - The dog is afraid of being hurt by the other dog. Through gradual exposure to other dogs where no pain, and thus no primary stimuli is expeirenced. The stimulus of seeing dogs is desensitized, this leads to extinction of the response and dogs becomeing an neutral response. 
+- Sentitization - repeated exposure to a specific stimulous can lead to increased response
+    - Seeing people and then barking at people, and seeing barking have an affect on people can lead to an amplified reaction to seeing people 
+    -
 
 # Classical Conditioning vs. Other Conditioning Models
 - B.F. Skinner's Operant Conditioning, which deals with the interaction between behavior and consequences.
@@ -47,6 +91,10 @@ Individuals can be exposed to anxiety-provoking stimuli while being presented wi
 # Quick Facts
 - Nobel Prize in Physiology or Medicine in 1904
 - Also used in disciplines such as artificial intelligence, human education, and therapy.
+
+## Not quick Facts
+- advances in neuroimaging in functional magnetic resonance and position emiision tomography have allowed for better understandings of formation and extinction of conditioned responses.
+-
 
 # References
 - Biscayne, D. (2025). *Classical Conditioning: A Guide to Pavlovian Psychology*. PublishDrive.
