@@ -1,6 +1,6 @@
 ---
 date: '2026-10-31'
-title: 'Griz Urban Trailing, Hard Pack Tracking, and Crab Walking'
+title: 'Griz Urban Trailing, Hard Pack and Dirt Pile Tracking, and Heel Finish Work'
 tags:
   - Griz
   - Search and Rescue
@@ -9,7 +9,7 @@ tags:
   - Heel
 ---
 
-# Griz Urban Trailing, Hard Pack Tracking, and Crab Walking
+# Griz Urban Trailing, Hard Pack and Dirt Pile Tracking, and Heel Finish Work
 
 ## Urban Search and Rescue Trailing
 This is a search and rescue urban training. The trail is about 40 minutes old. I was given a point last seen and a direction of travel, and I knew there was 1 unmarked corner to work through. Along the trail there is a distraction with another dog. The goal of this exercise was to help me learn when Griz is on odor, and when she's following drifting odor.
@@ -25,7 +25,7 @@ The next video is the same day. I was noticing how she struggles on the hard pac
 
 {{<youtube -LC3O5LB-Eo  >}}
 
-## Fixing Crab Walking in the Heel
+## Heel Finish Work: Fixing Crab Walking
 This one is from a different day. A friend asked about crab walking during heeling. It's a hard issue to deal with when we do competition heels. It's a classically conditioned response to be closer to the reward. You can read up on it by looking up reward placement videos, but essentially I'm going to fix this by changing the location of the reward. In this case I let it fall way behind us, so if she wants to get closer to the reward she actually has to fall back.
 
 {{<youtube G67BzJgcp_s  >}}
