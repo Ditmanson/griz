@@ -3,24 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://griz.sh/</loc>
-    <lastmod>2026-08-29T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://griz.sh/tags/desensitization-training/</loc>
-    <lastmod>2026-08-29T00:00:00+00:00</lastmod>
+    <loc>https://griz.sh/tags/casting/</loc>
+    <lastmod>2026-10-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://griz.sh/dogs/</loc>
+    <lastmod>2026-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://griz.sh/tags/griz/</loc>
+    <lastmod>2026-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://griz.sh/dogs/griz-1-year-videos/</loc>
+    <lastmod>2026-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://griz.sh/tags/heel/</loc>
+    <lastmod>2026-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://griz.sh/tags/play/</loc>
+    <lastmod>2026-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://griz.sh/tags/search-and-rescue/</loc>
+    <lastmod>2026-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://griz.sh/tags/</loc>
+    <lastmod>2026-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://griz.sh/tags/desensitization-training/</loc>
     <lastmod>2026-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://griz.sh/tags/gear/</loc>
     <lastmod>2026-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://griz.sh/tags/griz/</loc>
-    <lastmod>2026-08-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://griz.sh/dogs/griz-10-month-checkin/</loc>
-    <lastmod>2026-08-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://griz.sh/tags/</loc>
     <lastmod>2026-08-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://griz.sh/dogs/gear/</loc>
@@ -157,5 +172,9 @@
   </url><url>
     <loc>https://griz.sh/misc/small_challegnes/</loc>
     <lastmod>2026-02-22T19:42:42-07:00</lastmod>
+  </url><url>
+    <loc>https://griz.sh/interviews/</loc>
+  </url><url>
+    <loc>https://griz.sh/lesson_plans/</loc>
   </url>
 </urlset>
