@@ -37,7 +37,7 @@ How we play: turns, heel tricks, parade, center, boost, and backing up.
 {{<youtube nDTvE199qhM  >}}
 
 ## Training Kids with Dogs
-Kids walking on leash and playing with big dogs, including a 1 year old working line German Shepherd and an 11 year old husky rescue. Can your six-year-old do that with a working line German Shepherd?
+My 6 year old Norwegian Viking child walking on leash and playing with big dogs: a 1 year old working line German Shepherd and an 11 year old husky rescue. Can your six-year-old do that with a working line German Shepherd?
 
 {{<youtube 1piLf035sk8  >}}
 
