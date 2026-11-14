@@ -10,21 +10,49 @@
 		
 		
 		
-			<lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Sat, 14 Nov 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://griz.sh/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Casting</title>
-				<link>https://griz.sh/tags/casting/</link>
-				<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>https://griz.sh/tags/casting/</guid>
+				<title>Demonstration</title>
+				<link>https://griz.sh/tags/demonstration/</link>
+				<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>https://griz.sh/tags/demonstration/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Griz</title>
 				<link>https://griz.sh/tags/griz/</link>
-				<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+				<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
 				<guid>https://griz.sh/tags/griz/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Kids and Dogs</title>
+				<link>https://griz.sh/tags/kids-and-dogs/</link>
+				<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>https://griz.sh/tags/kids-and-dogs/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tracking</title>
+				<link>https://griz.sh/tags/tracking/</link>
+				<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>https://griz.sh/tags/tracking/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Trailing</title>
+				<link>https://griz.sh/tags/trailing/</link>
+				<pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>https://griz.sh/tags/trailing/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Casting</title>
+				<link>https://griz.sh/tags/casting/</link>
+				<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+				<guid>https://griz.sh/tags/casting/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -46,20 +74,6 @@
 				<link>https://griz.sh/tags/search-and-rescue/</link>
 				<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
 				<guid>https://griz.sh/tags/search-and-rescue/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Tracking</title>
-				<link>https://griz.sh/tags/tracking/</link>
-				<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>https://griz.sh/tags/tracking/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Trailing</title>
-				<link>https://griz.sh/tags/trailing/</link>
-				<pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
-				<guid>https://griz.sh/tags/trailing/</guid>
 				<description></description>
 			</item>
 			<item>

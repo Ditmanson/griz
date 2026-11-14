@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+<title>
+  
+    My dogs are my resume | Canine Communication with Griz
+  
+</title>
+
+
+
+
+<meta name="htmx-config" content='{"selfRequestsOnly": false}'>
+<script src="https://cdn.jsdelivr.net/npm/htmx.org@2.0.10/dist/htmx.min.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/mustache@4.2.0/mustache.min.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/htmx-ext-client-side-templates@2.0.2/client-side-templates.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/htmx-ext-json-enc@2.0.3/json-enc.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/alpinejs@3.16.3/dist/cdn.min.js" defer></script>
+
+
+  </head>
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/bulma@1.0.4/css/bulma.min.css"
+  >
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+
+  <style>
+  h1, h2, h3 {
+  font-family: 'Anton', sans-serif;
+  }
+  </style>
+  <body>
+    <header>
+      <nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="/">
+      <strong>Canine Communication with Griz</strong>
+    </a>
+
+    
+    <a role="button"
+       class="navbar-burger"
+       aria-label="menu"
+       aria-expanded="true"
+       data-target="mainNavbar">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="mainNavbar" class="navbar-menu">
+    <div class="navbar-start">
+      
+        <a href="/dogs" class="navbar-item">
+          Dogs
+        </a>
+      
+        <a href="/meetups" class="navbar-item">
+          Meetups
+        </a>
+      
+        <a href="/lesson_plans" class="navbar-item">
+          lesson plans
+        </a>
+      
+        <a href="/misc" class="navbar-item">
+          Misc
+        </a>
+      
+        <a href="/tags/" class="navbar-item">
+          Tags
+        </a>
+      
+        <a href="/tech" class="navbar-item">
+          Tech
+        </a>
+      
+    </div>
+  </div>
+</nav>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+
+    
+    const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+    
+    $navbarBurgers.forEach(el => {
+      el.addEventListener('click', () => {
+
+        
+        const target = el.dataset.target;
+        const $target = document.getElementById(target);
+
+        
+        el.classList.toggle('is-active');
+        $target.classList.toggle('is-active');
+
+      });
+    });
+
+  });
+</script>
+
+
+    </header>
+
+    <main>
+      
+
+<article class="section">
+  <div class="block">
+    <h1>My dogs are my resume</h1>
+    <h1 class="title is-1">
+  My dogs are my resume
+</h1>
+<h2 class="title is-2">
+  Stress Training for Dogs
+</h2>
+<p>Escape and avoidance training to teach Griz to handle stress better and listen even when no rewards are available. This is 4 sessions of forced fetch training.</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/SnMAGTHxG2Y?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+		</div>
+
+<h2 class="title is-2">
+  Trailing Games, Training Through Play
+</h2>
+<p>Search and rescue style double blind retrieves. Two red balls (hard for dogs to see, so she has to use her nose) are placed out of sight, then Griz is cast to each one in order.</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/6xY6tbOXQx8?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+		</div>
+
+<h2 class="title is-2">
+  Tracking Demonstration, 12 Month Old GSD
+</h2>
+<p>Competition-style tracking for a dog too young to compete. A fun way to give a dog mental stimulation, and layering fetch at the end makes it a complete body and mind workout.</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ytUBuQI52XQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+		</div>
+
+<h2 class="title is-2">
+  Trailing Training with Griz and Kids
+</h2>
+<p>Griz at 1 year old, showing she can find her kid if he gets lost in the woods.</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/V2qxq1B5FCA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+		</div>
+
+<h2 class="title is-2">
+  Training Through Play with Griz
+</h2>
+<p>How we play: turns, heel tricks, parade, center, boost, and backing up.</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/nDTvE199qhM?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+		</div>
+
+<h2 class="title is-2">
+  Training Kids with Dogs
+</h2>
+<p>Kids walking on leash and playing with big dogs, including a 1 year old working line German Shepherd and an 11 year old husky rescue. Can your six-year-old do that with a working line German Shepherd?</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/1piLf035sk8?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+		</div>
+
+<h2 class="title is-2">
+  Off-Leash Enrichment Walk By a Lake
+</h2>
+<p>A long walk in the woods with 2 dogs off leash. They wear e-collars and I have the remote ready, but it&rsquo;s not used. No real training here, just a demonstration of a relaxed walk.</p>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/cFSE0V6iDTQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+		</div>
+
+
+  </div>
+</article>
+
+<h1>My dogs are my resume</h1>
+
+<h2>Comments</h2>
+
+
+<template id="comments-template">
+{{#errors}}
+<p>Error loading comments.</p>
+{{/errors}}
+{{^errors}}
+{{#data.listGrizcomments.items}}
+<div class="box">
+    <strong>{{name}}</strong><br>
+    <p>{{comment}}</p>
+</div>
+{{/data.listGrizcomments.items}}
+{{^data.listGrizcomments.items}}
+<p>No comments yet.</p>
+{{/data.listGrizcomments.items}}
+{{/errors}}
+</template>
+
+<div
+    id="comments"
+    hx-post="https://z2ujenfjtzhdngdxb7xe5pld3i.appsync-api.us-east-2.amazonaws.com/graphql"
+    hx-trigger="load, refreshComments from:body"
+    hx-ext="json-enc,client-side-templates"
+    hx-swap="innerHTML"
+    mustache-template="comments-template"
+    hx-headers='{"x-api-key": "da2-zmx7kmlw7ze4hioupggncn3xtm"}'
+    hx-vals='js:{query: `query ListComments($filter: TableGrizcommentsFilterInput) { listGrizcomments(filter: $filter) { items { id name comment postSlug createdAt approved } } }`, variables: {filter: {postSlug: {eq: window.location.pathname}, approved: {eq: true}}}}'
+>
+    Loading comments...
+</div>
+
+
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+<script>
+function getTurnstileToken() {
+    return typeof turnstile !== "undefined" ? turnstile.getResponse() : "";
+}
+
+function resetTurnstile() {
+    if (typeof turnstile !== "undefined") {
+        turnstile.reset();
+    }
+}
+
+function turnstileTokenOrNotify() {
+    if (!getTurnstileToken()) {
+        document.body.dispatchEvent(new CustomEvent('comment-captcha-missing'));
+        return false;
+    }
+    return true;
+}
+
+function buildCommentHeaders() {
+    return {
+        "x-api-key": "da2-zmx7kmlw7ze4hioupggncn3xtm",
+        "x-turnstile-token": getTurnstileToken()
+    };
+}
+
+function buildCommentVals() {
+    return {
+        query: "mutation CreateComment($input: CreateGrizcommentsInput!) { createGrizcomments(input: $input) { id name comment postSlug createdAt approved } }",
+        variables: {
+            input: {
+                id: crypto.randomUUID(),
+                name: document.getElementById("name").value,
+                comment: document.getElementById("comment").value,
+                url: "https://griz.sh",
+                postSlug: window.location.pathname,
+                approved: true,
+                createdAt: new Date().toISOString()
+            }
+        }
+    };
+}
+
+document.addEventListener('alpine:init', function () {
+    Alpine.data('commentForm', function () {
+        return {
+            showError: false,
+            errorMessage: '',
+
+            init: function () {
+                document.body.addEventListener('comment-captcha-missing', function () {
+                    this.errorMessage = "Please complete the captcha before posting.";
+                    this.showError = true;
+                }.bind(this));
+            },
+
+            handleAfterRequest: function (evt) {
+                if (evt.detail.elt.id !== 'commentForm') {
+                    return;
+                }
+
+                var body = null;
+                try {
+                    body = JSON.parse(evt.detail.xhr.responseText);
+                } catch (e) {
+                    
+                }
+
+                resetTurnstile();
+
+                if (body && body.errors) {
+                    console.error("GraphQL errors:", body.errors);
+                    
+                    
+                    
+                    var isCaptchaError = body.errors.some(function (e) {
+                        return (e.message || "").includes("Turnstile");
+                    });
+                    this.errorMessage = isCaptchaError
+                        ? "Captcha verification failed. Please try again."
+                        : "Something went wrong posting your comment. Please try again.";
+                    this.showError = true;
+                    return;
+                }
+
+                if (!body || !body.data) {
+                    console.error("Unexpected response posting comment:", evt.detail.xhr.responseText);
+                    this.errorMessage = "Something went wrong posting your comment. Please try again.";
+                    this.showError = true;
+                    return;
+                }
+
+                console.log("Posted comment:", body.data);
+                this.showError = false;
+                document.getElementById('commentForm').reset();
+
+                
+                document.body.dispatchEvent(new Event('refreshComments'));
+            }
+        };
+    });
+});
+</script>
+<div class="box" x-data="commentForm" x-on:htmx:after-request.window="handleAfterRequest($event)">
+    <h3 class="title is-4">Post a Comment</h3>
+    <form
+        id="commentForm"
+        hx-post="https://z2ujenfjtzhdngdxb7xe5pld3i.appsync-api.us-east-2.amazonaws.com/graphql"
+        hx-ext="json-enc"
+        hx-trigger="submit[turnstileTokenOrNotify()]"
+        hx-swap="none"
+        hx-headers="js:{...buildCommentHeaders()}"
+        hx-vals="js:{...buildCommentVals()}"
+    >
+        <div class="field">
+            <label class="label">Name</label>
+            <div class="control">
+                <input class="input" type="text" id="name" placeholder="Your Name" required />
+            </div>
+        </div>
+
+        <div class="field">
+            <label class="label">Comment</label>
+            <div class="control">
+                <textarea class="textarea" id="comment" placeholder="Your comment..." required></textarea>
+            </div>
+        </div>
+
+        <div class="field">
+            <div class="cf-turnstile" data-sitekey="0x4AAAAAAEhVn_r1wv8HHNku"></div>
+        </div>
+
+        <p x-show="showError" x-text="errorMessage" class="has-text-danger" style="display:none;"></p>
+
+        <div class="field">
+            <div class="control">
+                <button type="submit" class="button is-link">Post Comment</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<section class="section">
+  <h2>Youtube Transcripts</h2>
+  <div class="box">
+    <h3 class="title is-5">Trailing Games, Training through play demonstration</h3>
+    <p>Chris, please. All right. So, I was watching a video on uh AKC uh retreat competitions and they do these double and triple blind where they throw bumpers behind something in in random orders and the dogs got to go get them. And I thought that was cool. But we&#39;re going to do it with search and rescue style. So, two red balls. Red is hard for dogs to see. So, um, that makes this more likely that she&#39;ll use her nose. And so, what we&#39;re going to do is we&#39;re going to do a double because I, uh, didn&#39;t bring three balls. Otherwise, you can do a triple. I&#39;m going to go, she&#39;s going to stay here. She&#39;ll be able to see me, but I&#39;m going to walk out into the grassy field that way. And then, I&#39;m going to walk out way out that way. And then we&#39;re going to send her for them one at a time. We&#39;ll spin her around a few times in a circle, and then we&#39;ll send her out. Go. Okay. one in the order that I dropped them. Chris heel loose. Good. Parade loose. No. Push. Reset. Now we&#39;re going to cast her to the specific one we want. Trip. There&#39;s the first one. Good girl. Come here, Grace. Come. Good. No. Come. Come on. Come on. All the way back first. Come here. Drop. Drop. Drop it. Grace. Go get it. There&#39;s a road crossing on this one. There&#39;s the road cross. And she&#39;s got the ball. Good girl. Good. Drop. Drop. Good. Around. Release.</p>
+  </div>
+  <div class="box">
+    <h3 class="title is-5">K9 Communication Training through Play Griz Demonstration</h3>
+    <p>My dogs are my resume. This is how we play. Turns. Got some heel tricks. Parade. Go to the center. Parade. Center. Parade. Boost. You can do it backwards. Reset center. Good. Reset boost. Here stand through.</p>
+  </div>
+  <div class="box">
+    <h3 class="title is-5">K9-communication Training Kids with Dogs Demonstration</h3>
+    <p>So, my dogs on my resume. We got a one-year-old working line German Shepherd with check blood. We got a 11year-old husky rescue. And we got a six-year-old Norwegian Viking child. &gt;&gt; Oh jeez. &gt;&gt; We&#39;re going to do a demonstration of uh walking on leash and playing with big with kids playing with big dogs. All right, let&#39;s walk this. Okay, walk. We&#39;ll go ahead and fast forward this one. Don&#39;t worry about how long Get on Get your attention &gt;&gt; looking at a squirrel here. Come here. She&#39;s a good girl. &gt;&gt; Let&#39;s walk over here real quick and then we&#39;ll play with her a little bit. Okay. Careful the people. Careful people. Okay, take off her leash. Come here. Put this one on there. Come back to me. Grab the ball. &gt;&gt; I did. That&#39;s an emergency. &gt;&gt; Yeah. &gt;&gt; Tell her to walk. Tell her to heal. Walk closer to her tree. to go get it. &gt;&gt; Point at it. &gt;&gt; She didn&#39;t see you throw it, Cass. It&#39;s okay. Just tell her goodness. Say &gt;&gt; I tell her to drop it. &gt;&gt; Okay. Try it again. No. Tell her no. Do it again. &gt;&gt; Good job. Good job. lay down. &gt;&gt; Okay. Walk away and set the ball down and then come back and touch your nose. &gt;&gt; Just set it down on the ground. &gt;&gt; No. get it. &gt;&gt; Tell her then tell her to drop it. Tell her she&#39;s a good girl and throw the ball. &gt;&gt; You&#39;re a good girl. Now, the question you should ask is, can your six-year-old do that with a working line German Shepherd?</p>
+  </div>
+  <div class="box">
+    <h3 class="title is-5">K9-communication Off-Leash Enrichment Walk By a Lake</h3>
+    <p>Hey yeah. Heat. Heat. Heat. Heat. I&#39;m Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Do you do? Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Yeah. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Hey, hey, hey. Heat. Heat. Heat. Hey, Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat. Heat.</p>
+  </div>
+</section>
+
+
+    </main>
+
+    <footer>
+      <div class="section">
+<p>Griz Canine Communication 2026.</p>
+</div>
+
+    </footer>
+  </body>
+</html>
